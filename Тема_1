@@ -1,3 +1,0 @@
-git remote add origin git@github.com:iLich-V/Software_Engineering.git
-git branch -M Тема_1
-git push -u origin Тема_1
