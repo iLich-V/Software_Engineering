@@ -27,7 +27,7 @@ print('123')
 print(1.23)
 ```
 ### Результат.
-![Меню](https://github.com/iLich-V/Software_Engineering/blob/Тема_1/pic/Lab2_1.png)
+![Меню](https://github.com/iLich-V/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
 
 ## Выводы
 
